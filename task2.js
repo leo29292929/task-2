@@ -23,8 +23,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const showFavoritesButton = document.createElement('button');
     showFavoritesButton.id = 'showFavorites';
     showFavoritesButton.textContent = 'Show Favorites';
-    showFavoritesButton.style.marginLeft='55%'
-    showFavoritesButton.style.transform = 'translateY(-50px)';
+    showFavoritesButton.style.marginLeft='80%'
+    showFavoritesButton.style.transform = 'translateY(-60px)';
     showFavoritesButton.style.position='relative'
 
     headerContent.appendChild(headerTitle);
