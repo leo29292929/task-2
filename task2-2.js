@@ -88,7 +88,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
       function goBackToTask2() {
-        window.location.href = 'task2.html';
+        window.location.href = 'index.html';
     }
 
     document.querySelector('.back-to-task2').addEventListener('click', goBackToTask2);
