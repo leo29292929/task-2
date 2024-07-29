@@ -88,7 +88,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
       function goBackToTask2() {
-        window.location.href = 'index.html';
+        window.location.href = 'https://leo29292929.github.io/task-2/';
     }
 
     document.querySelector('.back-to-task2').addEventListener('click', goBackToTask2);
